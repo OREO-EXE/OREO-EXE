@@ -1,5 +1,21 @@
 # 💫 About Me:
-I’m a computer science student obsessed with cybersecurity, malware research, and offensive security. I like breaking systems apart just to understand why they thought they were safe in the first place.<br><br>My interests sit in the uncomfortable zones of tech:<br><br>Malware behavior analysis<br><br>Network intrusion detection<br><br>Sandbox environments and Docker-based labs<br><br>Low-level programming and system internals<br><br>Linux, automation, and things that fail loudly when misconfigured<br><br>I build projects that simulate real-world threats, not toy demos. Most of my work focuses on understanding how attacks work from the inside so defenses can stop pretending.<br><br>I prefer:<br><br>Learning by building<br><br>Reading source code instead of blog posts<br><br>Linux over everything<br><br>Tools that explain why something broke<br><br>Currently experimenting with:<br><br>Self-learning detection systems<br><br>Network traffic analysis (PCAPs don’t lie)<br><br>Security-focused automation
+I’m a computer science student obsessed with cybersecurity, malware research, and offensive security. I like breaking systems apart just to understand why they thought they were safe in the first place.<br>
+My interests sit in the uncomfortable zones of tech:<br>
+Malware behavior analysis<br>
+Network intrusion detection<br>
+Sandbox environments and Docker-based labs<br>
+Low-level programming and system internals<br>
+Linux, automation, and things that fail loudly when misconfigured<br>
+I build projects that simulate real-world threats, not toy demos. Most of my work focuses on understanding how attacks work from the inside so defenses can stop pretending.<br>
+I prefer:<br>
+Learning by building<br>
+Reading source code instead of blog posts<br>
+Linux over everything<br>
+Tools that explain why something broke<br>
+Currently experimenting with:<br>
+Self-learning detection systems<br>
+Network traffic analysis (PCAPs don’t lie)<br>
+Security-focused automation
 
 
 ## 🌐 Socials:
@@ -12,13 +28,3 @@ I’m a computer science student obsessed with cybersecurity, malware research, 
 ![](https://nirzak-streak-stats.vercel.app/?user=OREO-EXE&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OREO-EXE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OREO-EXE&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=OREO-EXE&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
