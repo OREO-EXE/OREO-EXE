@@ -1,21 +1,5 @@
-# 💫 About Me:
-I’m a computer science student obsessed with cybersecurity, malware research, and offensive security. I like breaking systems apart just to understand why they thought they were safe in the first place.<br>
-My interests sit in the uncomfortable zones of tech:<br>
-Malware behavior analysis<br>
-Network intrusion detection<br>
-Sandbox environments and Docker-based labs<br>
-Low-level programming and system internals<br>
-Linux, automation, and things that fail loudly when misconfigured<br>
-I build projects that simulate real-world threats, not toy demos. Most of my work focuses on understanding how attacks work from the inside so defenses can stop pretending.<br>
-I prefer:<br>
-Learning by building<br>
-Reading source code instead of blog posts<br>
-Linux over everything<br>
-Tools that explain why something broke<br>
-Currently experimenting with:<br>
-Self-learning detection systems<br>
-Network traffic analysis (PCAPs don’t lie)<br>
-Security-focused automation
+# 💫 0R30.EXE:
+I work across several technical areas, with a focus on cybersecurity, malware analysis, network security, and experimental detection systems
 
 
 ## 🌐 Socials:
