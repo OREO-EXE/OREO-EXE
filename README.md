@@ -1,4 +1,4 @@
-# 🔝About:
+# About:
 Cybersecurity-focused developer building low-level, system-oriented tools.  
 Works with Rust and Linux to create efficient CLI/TUI applications.  
 Interested in vulnerability research, exploit development, and secure system design.  
