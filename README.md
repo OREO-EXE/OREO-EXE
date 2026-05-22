@@ -1,117 +1,137 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00FFAA&center=true&vCenter=true&width=800&lines=Cybersecurity+Developer;Rust+%7C+Linux+%7C+Low-Level+Systems;Application+Security+Researcher;Building+AI-Assisted+Security+Tools" />
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=OREO-EXE&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+# OREO.EXE
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00FFAA&center=true&vCenter=true&width=900&lines=Cybersecurity+Developer;Rust+%7C+Linux+%7C+Systems+Programming;Application+Security+Researcher;Building+AI-Assisted+Security+Tools;Exploit+Development+%26+Secure+Architecture" />
 
----
+```bash
+> initializing profile ...
 
-# ⚔️ About Me
+[ OK ] Systems Programming
+[ OK ] Vulnerability Research
+[ OK ] Linux Internals
+[ OK ] Secure Architecture
+[ OK ] AI-Assisted Security Tooling
 
-```rust
-struct Developer {
-    username: &'static str,
-    focus: &'static [&'static str],
-    languages: &'static [&'static str],
-    interests: &'static [&'static str],
-    current_mission: &'static str,
-}
-
-let me = Developer {
-    username: "OREO-EXE",
-    
-    focus: &[
-        "Cybersecurity",
-        "Low-Level Systems",
-        "Secure Architecture",
-        "Exploit Research",
-        "AI Security Tooling"
-    ],
-
-    languages: &[
-        "Rust",
-        "Python",
-        "C",
-        "C++",
-        "Go"
-    ],
-
-    interests: &[
-        "Linux Internals",
-        "Reverse Engineering",
-        "Application Security",
-        "CLI/TUI Development",
-        "Vulnerability Research"
-    ],
-
-    current_mission:
-        "Building modular AI-assisted security tools with persistent context."
-};
+status: operational
 ```
 
----
-
-# 🌐 Connect
-
-<div align="center">
-
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/x0reo.exe)
-
 [![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dharshan.oreo26@gmail.com)
 
 </div>
 
 ---
 
-# ⚡ Tech Arsenal
+# 🧠 About Me
 
-## 🧠 Systems / Low-Level
+```rust
+struct Developer {
+    name: &'static str,
+    role: &'static str,
+    specialization: &'static [&'static str],
+    stack: &'static [&'static str],
+    interests: &'static [&'static str],
+}
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=rust,c,cpp,go,linux" />
-</p>
+let oreo = Developer {
+    name: "OREO.EXE",
+
+    role: "Cybersecurity-Focused Systems Developer",
+
+    specialization: &[
+        "Application Security",
+        "Exploit Development",
+        "Low-Level Systems",
+        "Secure Architecture",
+        "AI Security Tooling"
+    ],
+
+    stack: &[
+        "Rust",
+        "Linux",
+        "Python",
+        "C/C++",
+        "Go"
+    ],
+
+    interests: &[
+        "Reverse Engineering",
+        "Linux Internals",
+        "Terminal Applications",
+        "Automation",
+        "Memory Safety"
+    ]
+};
+```
+
+Humans created software so bloated that opening a calculator now requires GPU acceleration.  
+So naturally the solution is building fast, minimal, memory-safe tools before the industry fully collapses under JavaScript frameworks.
 
 ---
 
-## 🔐 Security / Backend
+# ⚡ Tech Arsenal
+
+### 🧠 Systems / Low-Level
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,go,linux,bash,vim" />
+</p>
+
+### 🔐 Security / Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
-</p>
-
-<p align="center">
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
 </p>
 
----
-
-## 🌍 Web / AppSec
+### 🌐 Web / AppSec
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,html,php,tailwind" />
 </p>
 
----
-
-## 🗄️ Databases
+### ⚙️ DevOps / Infrastructure
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,mysql,sqlite" />
 </p>
 
 ---
 
-## ⚙️ DevOps / Infrastructure
+# 🏴‍☠️ Current Focus
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,linux" />
-</p>
+- Building modular AI-assisted security tooling
+- Developing secure CLI/TUI applications
+- Linux internals & low-level debugging
+- Vulnerability research workflows
+- Reverse engineering & exploit development
+- Secure architecture and backend automation
+- Rust-based system tooling
+- Persistent-context security systems
 
 ---
 
-# 📈 GitHub Analytics
+# 🔥 Featured Domains
+
+```txt
+• Application Security
+• Exploit Development
+• Vulnerability Research
+• Reverse Engineering
+• Malware Analysis
+• Linux Internals
+• Secure Backend Design
+• AI-Augmented Security
+• Systems Programming
+• Secure Automation
+• Memory-Safe Engineering
+• Terminal UI Development
+```
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -123,7 +143,7 @@ let me = Developer {
 
 ---
 
-# 🔥 Contribution Streak
+# ⚡ Contribution Streak
 
 <div align="center">
 
@@ -133,55 +153,55 @@ let me = Developer {
 
 ---
 
-# 🧩 Activity Graph
+# 📈 Activity Graph
 
 <div align="center">
 
-[![Oreo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OREO-EXE&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffaa&line=00ffaa&point=ffffff)](https://github.com/OREO-EXE)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OREO-EXE&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffaa&line=00ffaa&point=ffffff"/>
 
 </div>
 
 ---
 
-# 🏴‍☠️ Current Focus
-
-- Building secure AI-assisted tooling
-- Advanced Linux + system internals
-- Vulnerability research workflows
-- Rust-based offensive/defensive utilities
-- Persistent modular architectures
-
-Because apparently sleeping is less important than writing memory-safe code at 2AM while Kubernetes eats RAM like a starved animal.
-
----
-
-# 🧠 Philosophy
+# ⚔️ Engineering Philosophy
 
 ```txt
 Secure by design.
 Minimal by default.
-Understand the system before using the framework.
-Automation beats repetition.
 Complexity is an attack surface.
+Low-level understanding beats copy-paste engineering.
+Automation beats repetition.
+Performance matters.
+Memory safety matters more.
 ```
 
 ---
 
-# ⚡ Fun Fact
+# 🚀 Current Mission
 
 ```bash
-> while(alive) {
->     learn();
->     build();
->     break();
->     secure();
-> }
+> mission --status
+
+Building intelligent security tooling
+with modular architecture, persistent context,
+and low-level performance-focused design.
+
+Target:
+Create systems that are:
+- Fast
+- Secure
+- Minimal
+- Scalable
+- Actually useful
 ```
+
+Modern development somehow normalized shipping applications larger than entire operating systems from 20 years ago.  
+The bar is underground. Which is good news for competent engineers.
 
 ---
 
 <div align="center">
 
-### ⚔️ "Low-level mindset. High-level paranoia."
+### ⚡ Build. Break. Secure. Repeat.
 
 </div>
