@@ -69,9 +69,9 @@ AI-assisted security tooling, and offensive/defensive workflows.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OREO-EXE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffaa&icon_color=00ffaa&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OREO-EXE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OREO-EXE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffaa&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OREO-EXE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
 
 </div>
 
@@ -81,7 +81,7 @@ AI-assisted security tooling, and offensive/defensive workflows.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=OREO-EXE&theme=tokyonight&hide_border=true&background=0D1117&ring=00ffaa&fire=00ffaa&currStreakLabel=00ffaa"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=OREO-EXE&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -91,7 +91,7 @@ AI-assisted security tooling, and offensive/defensive workflows.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OREO-EXE&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffaa&line=00ffaa&point=ffffff"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=OREO-EXE&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
