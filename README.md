@@ -65,18 +65,6 @@ AI-assisted security tooling, and offensive/defensive workflows.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OREO-EXE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OREO-EXE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
-
-</div>
-
----
-
 # ⚡ Contribution Streak
 
 <div align="center">
