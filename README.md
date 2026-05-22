@@ -1,15 +1,4 @@
-<div align="center">
-
-# OREO.EXE
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00FFAA&center=true&vCenter=true&width=900&lines=Cybersecurity+Developer;Rust+%7C+Linux+%7C+Systems+Programming;Application+Security+Researcher;Building+AI-Assisted+Security+Tools;Exploit+Development+%26+Secure+Architecture" />
-
-<br>
-
-Cybersecurity-focused developer building secure low-level systems,  
-AI-assisted security tooling, and offensive/defensive workflows.
-
-<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/x0reo.exe)
 [![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dharshan.oreo26@gmail.com)
