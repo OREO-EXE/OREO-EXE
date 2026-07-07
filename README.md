@@ -9,13 +9,13 @@
 
 # ⚡ Tech Arsenal
 
-###           🧠 Systems / Low-Level
+### 🧠 Systems / Low-Level
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,linux,bash,vim" />
 </p>
 
-###           🔐 Security / Backend
+###🔐 Security / Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
@@ -25,13 +25,13 @@
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
 </p>
 
-          ###🌐 Web / Application Security
+###🌐 Web / Application Security
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,html,php,tailwind" />
 </p>
 
-###           ⚙️ Infrastructure / DevOps
+### ⚙️ Infrastructure / DevOps
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,mysql,sqlite" />
