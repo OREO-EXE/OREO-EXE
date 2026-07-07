@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
 </p>
 
-###           🌐 Web / Application Security
+          ###🌐 Web / Application Security
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,html,php,tailwind" />
