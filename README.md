@@ -10,9 +10,11 @@
 <tr>
 <td width="35%" valign="top">
 
-<img src="https://github.com/YOUR_USERNAME.png" width="100%">
+<img src="https://github.com/OREO-EXE.png" width="100%">
 
 ### OREO
+
+OREO-EXE
 
 CSE Student | Security Researcher
 
@@ -27,11 +29,12 @@ Coimbatore, India
 
 **CONNECT**
 
-[GitHub](https://github.com/YOUR_USERNAME)
+<a href="https://github.com/OREO-EXE">GitHub</a>
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
 
 </td>
+
 <td width="65%" valign="top">
 
 ### WHO AM I?
@@ -40,7 +43,7 @@ Computer Science student focused on offensive security, vulnerability research, 
 
 Building practical projects, exploring system internals, and learning how things actually work.
 
-**CAUTION**
+### CAUTION
 
 > Code is never finished. It only gets better.
 
@@ -56,7 +59,7 @@ Built with practice, curiosity, and persistence.
 
 ### MY CONTRIBUTIONS
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=080D17&color=FF3333&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OREO-EXE&bg_color=0D1117&color=FF3333&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="100%">
 
 ### MY TECH STACK
 
@@ -64,7 +67,7 @@ Built with practice, curiosity, and persistence.
 
 ### GITHUB STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=080D17&title_color=FF3333&icon_color=FF0000&text_color=FFFFFF" width="49%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=080D17&title_color=FF3333&text_color=FFFFFF" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=OREO-EXE&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3333&icon_color=FF0000&text_color=FFFFFF" width="49%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OREO-EXE&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3333&text_color=FFFFFF" width="49%">
 
 ---
 
