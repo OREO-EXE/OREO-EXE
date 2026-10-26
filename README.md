@@ -2,94 +2,87 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1759B5&height=130&section=header&text=OREO.EXE&fontSize=55&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&text=OREO.EXE&fontSize=65&fontColor=FF3333&animation=fadeIn&desc=NOT%20YOUR%20AVERAGE%20COMPUTER%20SCIENCE%20STUDENT&descSize=13&descAlignY=75" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=1759B5&center=true&vCenter=true&width=600&lines=CSE+student+with+too+many+side+quests;Building+software%2C+breaking+things%2C+learning;Cybersecurity+%2B+AI+%2B+Aerospace;Currently+turning+ideas+into+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=FF3333&center=true&vCenter=true&width=600&lines=Offensive+Security+%3E+Clicking+Random+Tools;Building+Things+That+Probably+Need+Debugging;Linux+%7C+AI+%7C+Systems+%7C+Aerospace;Curiosity+is+my+favorite+vulnerability" />
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-EXPERIMENTING-FFD43B?style=flat-square&labelColor=1759B5" />
-<img src="https://img.shields.io/badge/LOCATION-COIMBATORE-1759B5?style=flat-square" />
-<img src="https://img.shields.io/badge/MOOD-ONE%20MORE%20PROJECT-FF914D?style=flat-square&labelColor=1759B5" />
+<img src="https://img.shields.io/badge/STATUS-DOING%20SIDE%20QUESTS-FF0000?style=for-the-badge">
+<img src="https://img.shields.io/badge/LOCATION-COIMBATORE-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/MODE-TERMINAL-111827?style=for-the-badge&logo=linux&logoColor=white">
 
 </div>
 
 ---
-
-### Hey, I'm OREO 👋
-
-CSE student, builder, and professional side-quest collector.
-
-I like understanding how things work, building them from scratch, and occasionally discovering that my "quick little project" has become an entire engineering problem.
-
-My interests are all over the place:
-
-**Cybersecurity · Software Engineering · AI · Robotics · Aerospace**
-
-I enjoy practical experiments, weird ideas, and projects that teach me something beyond copying documentation.
-
----
-
-<div align="center">
-
-## CURRENTLY BUILDING
-
-</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
-### ☀️ SolarVision AI
+<img src="https://github.com/OREO-EXE.png" width="100%">
 
-*Making computers inspect solar panels.*
+### OREO
 
-Offline computer vision system for detecting defects and mapping their locations.
+`oreo@arch:~$ whoami`
 
-`Python` `PyTorch` `YOLO` `FastAPI`
+CSE Student  
+Offensive Security Researcher  
+Professional Problem Creator
 
-[→ Explore repositories](https://github.com/OREO-EXE?tab=repositories)
+📍 Coimbatore, India
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🕵️ OSINT Sentinel
+### CURRENT STATUS
 
-*Finding things that probably shouldn't be public.*
+🔴 Exploiting my free time
 
-Git repository leak detection with secret scanning, safe redaction, and explainable risk analysis.
+🔴 Building unnecessary things
 
-`Python` `Gitleaks` `SQLite`
+🔴 Learning how computers actually work
 
-[→ Explore repositories](https://github.com/OREO-EXE?tab=repositories)
+🔴 Probably debugging something
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🛰️ AEGIS
+### FIND ME
 
-*Teaching autonomous systems to think before acting.*
+[GitHub](https://github.com/OREO-EXE)
 
-Agentic decision intelligence, mission simulation, and evidence-driven safety.
-
-`AI` `Simulation` `Systems Engineering`
-
-[→ Explore repositories](https://github.com/OREO-EXE?tab=repositories)
+[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
 
 </td>
-<td width="50%" valign="top">
 
-### 💻 Side Quests
+<td width="65%" valign="top">
 
-*The projects that started with "what if..."*
+### `$ cat about_me.txt`
 
-Linux customization, software experiments, security tools, and random engineering ideas.
+Computer Science student who enjoys breaking things, building systems, and understanding what happens underneath the interface.
 
-Some become projects. Some become debugging sessions.
+Interested in offensive security, vulnerability research, reverse engineering, Linux internals, AI, robotics, and aerospace.
 
-[→ Explore everything](https://github.com/OREO-EXE?tab=repositories)
+I prefer understanding the exploit over memorizing the command.
+
+Currently building projects, exploring systems, and trying to make curiosity a technically useful problem.
+
+<br>
+
+### `$ ./current_objectives`
+
+- Learn offensive security from the fundamentals
+- Build tools instead of collecting tools
+- Understand Linux and system internals
+- Explore AI, robotics, and aerospace engineering
+- Make projects that actually do something
+
+<br>
+
+### `$ sudo cat /etc/motivation`
+
+> I don't want to be the guy who knows which tool to run.
+>
+> I want to know what happens when it runs.
 
 </td>
 </tr>
@@ -99,35 +92,84 @@ Some become projects. Some become debugging sessions.
 
 <div align="center">
 
-## MY TOOLBOX
+## THE THINGS I'M BUILDING
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,rust,js,ts,react,fastapi,linux,arch,docker,git,postgres,pytorch&theme=light&perline=7" />
+</div>
 
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<sub>Tools I use to turn ideas into functioning things.</sub>
+### ☀️ SolarVision AI
+
+**Computer Vision | AI**
+
+Offline solar panel defect inspection using computer vision.
+
+`Python` `PyTorch` `YOLO` `FastAPI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🕵️ OSINT Sentinel
+
+**Security | OSINT**
+
+Git repository leak detection with secret scanning, safe redaction, and explainable risk analysis.
+
+`Python` `Gitleaks` `SQLite`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ AEGIS
+
+**Agentic AI | Aerospace**
+
+Evidence-driven decision intelligence for autonomous systems and mission safety.
+
+`AI` `Simulation` `Systems Engineering`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💀 OffByOneSociety
+
+**Cybersecurity | Research**
+
+Security research, vulnerability exploration, and engineering.
+
+`Offensive Security` `Linux` `CTF`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Explore repositories](https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OREO-EXE?tab=repositories)
 
 </div>
 
 ---
 
-### A few things about me
-
-- I use Arch Linux because apparently configuring the operating system is also a hobby.
-- I enjoy cybersecurity, but I also like building things that have absolutely nothing to do with cybersecurity.
-- I learn best by experimenting, debugging, and figuring out why something broke.
-- I have a suspicious number of project ideas.
-- Aerospace and robotics are permanently occupying some portion of my brain.
-
----
-
 <div align="center">
 
-## THE LITTLE NUMBERS
+## MY INVENTORY
 
-<img src="https://github-readme-stats.vercel.app/api?username=OREO-EXE&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=1759B5&icon_color=FF914D&text_color=172B4D" width="49%" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,rust,js,ts,react,fastapi,linux,arch,docker,git,postgres,pytorch&theme=dark&perline=7">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OREO-EXE&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=1759B5&text_color=172B4D" width="49%" />
+<br>
+
+<img src="https://img.shields.io/badge/MAIN_WEAPON-PYTHON-111827?style=flat-square&logo=python">
+<img src="https://img.shields.io/badge/SECONDARY-C%20%2F%20C++-111827?style=flat-square&logo=cplusplus">
+<img src="https://img.shields.io/badge/DAILY_DRIVER-ARCH%20LINUX-111827?style=flat-square&logo=archlinux">
+<img src="https://img.shields.io/badge/ENVIRONMENT-TERMINAL-111827?style=flat-square&logo=gnometerminal">
 
 </div>
 
@@ -135,14 +177,28 @@ Some become projects. Some become debugging sessions.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD43B&height=75&section=footer&text=GO%20MAKE%20SOMETHING.&fontSize=25&fontColor=1759B5" width="100%" />
+## THE DAMAGE SO FAR
+
+<img src="https://github-readme-stats.vercel.app/api?username=OREO-EXE&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3333&icon_color=FF0000&text_color=FFFFFF&rank_icon=github" width="49%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OREO-EXE&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3333&text_color=FFFFFF" width="49%">
 
 <br>
 
-<sub>Thanks for stopping by. Hope you found something interesting.</sub>
+<img src="https://streak-stats.demolab.com?user=OREO-EXE&hide_border=true&background=0D1117&ring=FF0000&fire=FF3333&currStreakLabel=FF3333&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" width="70%">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=SYSTEM%20NOT%20FOUND&fontSize=25&fontColor=FF3333&desc=Just%20kidding.%20Still%20under%20development.&descSize=12&descAlignY=75" width="100%">
+
+<br>
+
+<sub>Built with curiosity, questionable sleep schedules, and an unreasonable number of terminals.</sub>
 
 <br><br>
 
-[GitHub](https://github.com/OREO-EXE) · [Projects](https://github.com/OREO-EXE?tab=repositories) · [Contact](mailto:YOUR_EMAIL)
+<img src="https://img.shields.io/badge/OREO.EXE-EXIT%20CODE%200-FF0000?style=for-the-badge">
 
 </div>
