@@ -2,141 +2,94 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1759B5&height=100&text=OREO.EXE&fontSize=42&fontColor=FFFFFF&fontAlign=8&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1759B5&height=130&section=header&text=OREO.EXE&fontSize=55&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=FFD43B&center=true&vCenter=true&width=600&lines=currently+figuring+things+out;building+stuff+that+may+or+may+not+work;too+many+ideas+%2C+not+enough+weekends;welcome+to+my+little+corner+of+the+internet" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=1759B5&center=true&vCenter=true&width=600&lines=CSE+student+with+too+many+side+quests;Building+software%2C+breaking+things%2C+learning;Cybersecurity+%2B+AI+%2B+Aerospace;Currently+turning+ideas+into+projects" />
 
-</div>
+<br>
 
-<div align="center">
-
-🟡 **STAY CURIOUS** ✦ **BUILD THINGS** ✦ **MAKE A MESS** ✦ **LEARN SOMETHING**
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-<sub>PERSONAL ENGINEERING LOG / 2026</sub>
-
-# I BUILD
-# WEIRD
-# THINGS.
-
-<sub>CYBERSECURITY ✦ SOFTWARE ✦ AI ✦ AEROSPACE</sub>
-
-</td>
-<td width="40%" valign="middle">
-
-### A LITTLE ABOUT ME
-
-CSE student. Professional side-quest enthusiast.
-
-I like figuring out how things work, building things from scratch, and occasionally making problems more complicated than they needed to be.
-
-Currently exploring security, software, AI, robotics, and aerospace.
-
-**My general approach:**
-
-Make it.
-
-Break it.
-
-Understand why.
-
-Make it less broken.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-CURIOUS-FFD43B?style=for-the-badge&labelColor=1759B5">
-<img src="https://img.shields.io/badge/LOCATION-COIMBATORE-1759B5?style=for-the-badge&labelColor=FFD43B">
-<img src="https://img.shields.io/badge/COFFEE-REQUIRED-FFD43B?style=for-the-badge&labelColor=1759B5">
+<img src="https://img.shields.io/badge/STATUS-EXPERIMENTING-FFD43B?style=flat-square&labelColor=1759B5" />
+<img src="https://img.shields.io/badge/LOCATION-COIMBATORE-1759B5?style=flat-square" />
+<img src="https://img.shields.io/badge/MOOD-ONE%20MORE%20PROJECT-FF914D?style=flat-square&labelColor=1759B5" />
 
 </div>
 
 ---
 
+### Hey, I'm OREO 👋
+
+CSE student, builder, and professional side-quest collector.
+
+I like understanding how things work, building them from scratch, and occasionally discovering that my "quick little project" has become an entire engineering problem.
+
+My interests are all over the place:
+
+**Cybersecurity · Software Engineering · AI · Robotics · Aerospace**
+
+I enjoy practical experiments, weird ideas, and projects that teach me something beyond copying documentation.
+
+---
+
 <div align="center">
 
-# THINGS I'VE BEEN MAKING
-
-<sub>A collection of experiments, projects, and questionable amounts of effort.</sub>
+## CURRENTLY BUILDING
 
 </div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD43B&height=100&text=01&fontSize=55&fontColor=1759B5" width="100%">
 
 ### ☀️ SolarVision AI
 
-Teaching computers to inspect solar panels.
+*Making computers inspect solar panels.*
 
-Computer vision, defect detection, and a dashboard that makes the results understandable.
+Offline computer vision system for detecting defects and mapping their locations.
 
-<sub>PYTHON · PYTORCH · OPENCV</sub>
+`Python` `PyTorch` `YOLO` `FastAPI`
 
-[EXPLORE PROJECT ↗](https://github.com/OREO-EXE)
+[→ Explore repositories](https://github.com/OREO-EXE?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1759B5&height=100&text=02&fontSize=55&fontColor=FFFFFF" width="100%">
 
 ### 🕵️ OSINT Sentinel
 
-A little project for finding exposed secrets in Git repositories.
+*Finding things that probably shouldn't be public.*
 
-Scanning, safe redaction, and explaining why something might matter.
+Git repository leak detection with secret scanning, safe redaction, and explainable risk analysis.
 
-<sub>PYTHON · GITLEAKS · SQLITE</sub>
+`Python` `Gitleaks` `SQLite`
 
-[EXPLORE PROJECT ↗](https://github.com/OREO-EXE)
+[→ Explore repositories](https://github.com/OREO-EXE?tab=repositories)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF914D&height=100&text=03&fontSize=55&fontColor=FFFFFF" width="100%">
 
 ### 🛰️ AEGIS
 
-Exploring agentic AI for autonomous systems.
+*Teaching autonomous systems to think before acting.*
 
-Mission simulations, evidence, decisions, and figuring out how to make intelligent systems behave responsibly.
+Agentic decision intelligence, mission simulation, and evidence-driven safety.
 
-<sub>AI · SIMULATION · SYSTEMS</sub>
+`AI` `Simulation` `Systems Engineering`
 
-[EXPLORE PROJECT ↗](https://github.com/OREO-EXE)
+[→ Explore repositories](https://github.com/OREO-EXE?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=91C7FF&height=100&text=04&fontSize=55&fontColor=1759B5" width="100%">
+### 💻 Side Quests
 
-### 💻 Random Experiments
+*The projects that started with "what if..."*
 
-Little tools, software experiments, Linux customization, and ideas that escaped the notes app.
+Linux customization, software experiments, security tools, and random engineering ideas.
 
-Some become projects.
+Some become projects. Some become debugging sessions.
 
-Some become lessons.
-
-Some become "I'll fix that later."
-
-<sub>LINUX · SOFTWARE · EXPERIMENTS</sub>
-
-[SEE MY REPOSITORIES ↗](https://github.com/OREO-EXE?tab=repositories)
+[→ Explore everything](https://github.com/OREO-EXE?tab=repositories)
 
 </td>
 </tr>
@@ -146,82 +99,50 @@ Some become "I'll fix that later."
 
 <div align="center">
 
-# MY LITTLE TOOLBOX
+## MY TOOLBOX
 
-<sub>Things I use to turn ideas into functioning objects.</sub>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,rust,js,ts,react,fastapi,linux,arch,docker,git,postgres,pytorch&theme=light&perline=7" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,rust,js,ts,react,fastapi,linux,arch,docker,git,postgres,pytorch&theme=light&perline=7">
+<sub>Tools I use to turn ideas into functioning things.</sub>
+
+</div>
+
+---
+
+### A few things about me
+
+- I use Arch Linux because apparently configuring the operating system is also a hobby.
+- I enjoy cybersecurity, but I also like building things that have absolutely nothing to do with cybersecurity.
+- I learn best by experimenting, debugging, and figuring out why something broke.
+- I have a suspicious number of project ideas.
+- Aerospace and robotics are permanently occupying some portion of my brain.
+
+---
+
+<div align="center">
+
+## THE LITTLE NUMBERS
+
+<img src="https://github-readme-stats.vercel.app/api?username=OREO-EXE&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=1759B5&icon_color=FF914D&text_color=172B4D" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OREO-EXE&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=1759B5&text_color=172B4D" width="49%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD43B&height=75&section=footer&text=GO%20MAKE%20SOMETHING.&fontSize=25&fontColor=1759B5" width="100%" />
+
+<br>
+
+<sub>Thanks for stopping by. Hope you found something interesting.</sub>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CURRENTLY-LEARNING-1759B5?style=flat-square">
-<img src="https://img.shields.io/badge/CURRENTLY-BUILDING-FFD43B?style=flat-square&labelColor=1759B5">
-<img src="https://img.shields.io/badge/CURRENTLY-EXPERIMENTING-FF914D?style=flat-square">
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### A FEW THINGS I LIKE
-
-- Understanding how computers work
-- Security research
-- Building software
-- Linux customization
-- Robotics and aerospace
-- Making things from scratch
-- Starting side quests
-
-</td>
-<td width="50%" valign="top">
-
-### THINGS THAT HAPPEN
-
-- One idea becomes four projects
-- A small bug becomes a debugging session
-- A debugging session becomes a learning experience
-- The learning experience becomes another project
-
-It's a perfectly reasonable system.
-
-Probably.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# THE LITTLE NUMBERS
-
-<img src="https://github-readme-stats.vercel.app/api?username=OREO-EXE&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=1759B5&icon_color=FF914D&text_color=172B4D" width="49%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OREO-EXE&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=1759B5&text_color=172B4D" width="49%">
-
-</div>
-
----
-
-<div align="center">
-
-### YOU MADE IT TO THE BOTTOM.
-
-<sub>Thanks for wandering around my little corner of the internet.</sub>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD43B&height=75&text=GO%20MAKE%20SOMETHING.&fontSize=25&fontColor=1759B5" width="100%">
-
-<br>
-
-[PROJECTS](https://github.com/OREO-EXE?tab=repositories) ✦ [GITHUB](https://github.com/OREO-EXE) ✦ [CONTACT](mailto:YOUR_EMAIL)
-
-<sub>Made with curiosity, a keyboard, and several unfinished ideas.</sub>
+[GitHub](https://github.com/OREO-EXE) · [Projects](https://github.com/OREO-EXE?tab=repositories) · [Contact](mailto:YOUR_EMAIL)
 
 </div>
